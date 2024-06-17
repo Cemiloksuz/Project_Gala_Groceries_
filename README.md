@@ -1,4 +1,4 @@
-![proje]([https://github.com/username/repo/blob/main/path/to/image.jpg?raw=true)
+[proje]([https://github.com/username/repo/blob/main/path/to/image.jpg?raw=true)
 
 
 Gala Supermarkets Inventory Management Gala Supermarkets, as a technology-driven grocery store chain, embraces a strategy of continuous evolution and a commitment to innovation. Leyla Hanım, serving as the branch manager of Gala Supermarket in Germany, stands out as a dedicated leader with a focus on consistently providing customers with the highest quality and freshest products.
